@@ -17,7 +17,8 @@ public class Bhaskara {
             } else {
                 System.out.println("R1 = "+ f.Valor1());
                 System.out.println("R2 = "+ f.Valor2());
-            }
+            } 
+            
 
      
 
